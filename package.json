@@ -1,7 +1,7 @@
 {
-  "name": "cedd-cloning-automation",
+  "name": "cloning-automation",
   "version": "1.0.0",
-  "description": "cedd cloning automation demo",
+  "description": "cloning automation demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
